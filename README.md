@@ -1,5 +1,7 @@
 # ♠️ Game Theory Optimal (GTO) Poker Solver & Exploitative Lab
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-URL.streamlit.app)
+
 An imperfect-information game-theory solver built from scratch in Python and NumPy using **Counterfactual Regret Minimization (CFR / CFR+)**, paired with an exact information-constrained Best-Response evaluator and an interactive **Streamlit** decision-science dashboard.
 
 > **Why Poker?** Imperfect-information games model the exact mathematical core of **competitive pricing, sealed-bid auctions, negotiation, and adversarial optimization**—making optimal decisions when you cannot observe your opponent's private information.
